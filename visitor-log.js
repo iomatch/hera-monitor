@@ -21,7 +21,7 @@ var app = express();
 
 // Visitors data structure
 var visitors = {
-	"Bill Hamm": {
+	"Tommi N": {
 		arrived: new Date(Date.now() - 1000*3600*2) 
 	},
 	"Deborah Lapidot": {
